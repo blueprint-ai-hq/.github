@@ -8,12 +8,12 @@
 
 > [!WARNING]
 > Project is not public (yet)
+> 
 > The project will be made public once Blueprint-Studio exists and ready to be made public
 
 A specification for defining AI character personalities, behaviours, and interactions. The Blueprint Format provides a way to create and share AI character templates across different platforms.
 
 **Key Features:**
-- Variable interpolation system
 - Pre-seeded conversation flows
 - Customizable character parameters
 
@@ -21,7 +21,7 @@ A specification for defining AI character personalities, behaviours, and interac
 ![Status](https://img.shields.io/badge/status-in%20dev-fc8403)
 
 > [!WARNING]
-> Project does not **exist** because the [format](https://github.com/blueprint-ai-hq/blueprint-format) is still in development
+> Project exists, however it's not at the state where I'll be comfortable making it public
 
 A web-based platform that implements the Blueprint Format, providing an interface for AI character interactions.
 
